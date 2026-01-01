@@ -9,7 +9,7 @@ const CODING_SITES = [
 ];
 
 const AI_SITES = [
-    "chat.openai.com",
+    "chatgpt.com",
     "perplexity.ai",
     "google.gemini.com",
     "claude.ai",
