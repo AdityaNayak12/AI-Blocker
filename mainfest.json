@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "AI Blocker While Coding",
+  "version": "1.0",
+  "description": "Blocks AI apps when coding platforms are open",
+  "permissions": [
+    "tabs"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
